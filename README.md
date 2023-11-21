@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - React
   - PL/SQL (and SQL)
   - Software design and management skills
+
 🪙 I have a love for crypto and blockchain technology, and love to see its real-world use cases!
 
 
