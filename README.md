@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🔭 About Me
 
 📜 Currently studying as a software development student at the Southern Alberta Institute of Technology (SAIT).
-🧑🏻‍🔬 Knowledge in plethora of languages and tools such as:
+🧑🏻‍🔬 Knowledge in a plethora of languages and tools such as:
   - Java
   - React
   - PL/SQL (and SQL)
